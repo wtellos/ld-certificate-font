@@ -1,6 +1,7 @@
 <?php 
 
 // Path to file: /wp-content/plugins/sfwd-lms/includes/lib/tcpdf/config/tcpdf_config.php
+// Source: https://discoverelearning.com/insights/how-to-add-custom-fonts-to-your-learndash-lms-certificates
 <?php
 //============================================================+
 // File name   : tcpdf_config.php
